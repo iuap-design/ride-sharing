@@ -1,0 +1,22 @@
+{
+  "name": "ride-sharing",
+  "version": "1.0.0",
+  "description": "**一起回家**是由用友网络FED团队发起的一个开源app应用，致力于解决同一公司或是同一区域的同学上下班出行问题，倡导绿色出行、伙伴同行、资源共享。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuap-design/ride-sharing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuap-design/ride-sharing/issues"
+  },
+  "homepage": "https://github.com/iuap-design/ride-sharing#readme"
+}
